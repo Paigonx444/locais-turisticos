@@ -1,0 +1,5 @@
+* {
+    margin: 0; /* retira todos os espaços entre os elementos */
+    padding: 0;  /* espaço interno dos elementos */
+    box-sizing: border-box;  /* controlar largura e altura por completo */
+}
