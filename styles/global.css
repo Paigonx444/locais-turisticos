@@ -3,3 +3,7 @@
     padding: 0;  /* espaço interno dos elementos */
     box-sizing: border-box;  /* controlar largura e altura por completo */
 }
+
+body {
+    font-size: 1.6rem;
+}
